@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kasutera2
-- 👀 I’m interested in car
+- 👀 I’m interested in cake
 - 🌱 I’m currently learning math
 - 💞️ I’m looking to collaborate on tokyo
 - 📫 How to reach me english
