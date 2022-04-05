@@ -2,7 +2,7 @@
 - 👀 I’m interested in cake cake2
 - 🌱 I’m currently learning math
 - 💞️ I’m looking to collaborate on tokyojapan
-- 📫 How to reach me english bitcoin eth solana metamask avax stepn joe gst
+- 📫 How to reach me english bitcoin eth solana metamask avax stepn joe gst sol
 
 <!---
 kasutera2/kasutera2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
